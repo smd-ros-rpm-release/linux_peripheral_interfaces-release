@@ -1,0 +1,9 @@
+ros-indigo-linux-peripheral-interfaces (0.1.0-0trusty) trusty; urgency=high
+
+  * cleanup and now it uses smart_battery_msgs
+  * rename metapackage as linux_peripheral_interfaces
+  * Contributors: Jihoon Lee
+
+ -- Jihoon Lee <jihoonlee.in@gmail.com>  Wed, 13 Aug 2014 15:00:00 -0000
+
+
