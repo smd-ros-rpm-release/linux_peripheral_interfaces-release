@@ -1,0 +1,19 @@
+ros-indigo-laptop-battery-monitor (0.1.1-0trusty) trusty; urgency=high
+
+  * Added using hostname as diagnostic hardware id for laptop battery monitor
+  * Contributors: Mitchell Wills
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Mon, 17 Nov 2014 15:00:00 -0000
+
+ros-indigo-laptop-battery-monitor (0.1.0-0trusty) trusty; urgency=high
+
+  * update changelog
+  * updatting version
+  * update changelog
+  * cleanup and now it uses smart_battery_msgs
+  * rename the package and add metapackage
+  * Contributors: Jihoon Lee
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Wed, 13 Aug 2014 15:00:00 -0000
+
+
